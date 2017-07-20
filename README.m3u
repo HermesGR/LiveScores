@@ -1,1 +1,5 @@
-# LiveScores
+#EXTINF:1, [B][COLOR red]Coming Soon...[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
+
+#EXTINF:1, [B][COLOR dark blue]- - - - -[/B][/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=
